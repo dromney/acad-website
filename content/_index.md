@@ -12,6 +12,9 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    # design:
+    #   columns: '1'
+    #   view: showcase
   # - block: collection
   #   id: posts
   #   content:
@@ -66,14 +69,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  # - block: markdown
-  #   content:
-  #     title: Gallery
-  #     subtitle: ''
-  #     text: |-
-  #       {{< gallery album="demo" >}}
-  #   design:
-  #     columns: '1'
   - block: collection
     id: featured
     content:
