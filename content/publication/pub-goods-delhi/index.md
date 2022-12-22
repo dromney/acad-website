@@ -18,7 +18,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: "R&R at *Comparative Political Studies*"
 abstract: "How does social status affect contributions to local public goods? Based on an original survey experiment and qualitative research in slums in Delhi, we examine how persecuted minorities respond to social accountability aimed at promoting cooperation around community sanitation. While mainstream theories of diversity and public goods provision would predict greater willingness to cooperate in majority Hindu and Muslim neighborhoods, we find that mechanisms of social accountability are more effective among Muslims across the board, a group that routinely faces discrimination and violence in India. We propose that this reflects defensive cooperation, or a set of coping strategies in a hostile sociopolitical environment. Muslims with stronger ingroup ties, who are more likely to have developed the social technologies required to promote cooperative behavior, largely drive the effects. Our findings point to a new mechanism that helps to enforce social norms and, hence, public goods provision---the role of *minority status*."
-summary: "Exploring why Muslims respond more to pressure to contribute to public goods than Hindus in slums in Delhi, India."
+summary: "Exploring why Muslims respond more than Hindus to pressure to contribute to public goods in slums in Delhi, India in a survey experiment from 2018."
 tags: [minority politics, India, public goods]
 categories: []
 featured: true
@@ -47,7 +47,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [public-goods-india]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

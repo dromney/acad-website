@@ -1,41 +1,20 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ingroup Policing"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Ingroup Policing in Israel"
+summary: "How do people respond when someone from their social group condemns ingroup misbehavior? What factors can make people more receptive to condemnations like this? My dissertation and follow-up research look at these questions in the context Jews in Israel."
 show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+tags:
+  - ingroup policing
+  - Israel
+  - Palestine
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+  caption: >
+    From my fieldwork in Haifa, Israel - graffiti says "free Elor!!!"
+  focal_point: Smart
 ---
+This project emerges from my dissertation work, which itself is based on three research trips to Israel in 2015, 2016, and 2018. While most who study Israel and Palestine focus on between-group attitudes, I was interested in *within-group* attitudes, focusing on Israel Jews in particular. I was also interested in understanding how we can get people to be more supportive of ingroup policing---i.e., policing the negative behavior of one's group members in a situation of ethnic or religious tension. Political scientists generally view ingroup policing as a good thing that helps prevent outbreaks of violence, but no one had studied the individual-level factors that might cause citizens to be more or less supportive of ingroup policing. Does the way in which you justify criticism of your own group matter?
+
+In two experiments for my dissertation, Israeli Jews participated in hour-long group discussions about a well-known incident of ingroup misbehavior, the [Elor Azaria incident](https://www.nytimes.com/2016/03/31/world/middleeast/israeli-dispute-over-solder-who-shot-palestinian.html). An actor in these groups varied their argument for condemning the soldier's actions, in some using a "moral" frame and in others using a "pragmatic" frame. Both changed participant attitudes, but participants responded negatively to the actor in the moral condition, indicating a personal cost for using moral frames when criticizing one's own group. *A writeup of these results is available, upon request*.
+
+In a follow-up conjoint experiment planned for 2023, I am expanding on the original study to examine the how Israeli Jewish citizen's respond to elite-level condemnation of ingroup misbehavior.

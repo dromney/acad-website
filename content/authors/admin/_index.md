@@ -22,7 +22,7 @@ organizations:
     url: https://politicalscience.byu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ethnic politics and conspiracy theories in the MENA and SE Asia regions.
+bio: Studying ethnic politics and conspiracy theories in the MENA and SE Asia regions.
 
 # Interests to show in About widget
 interests:
@@ -73,7 +73,16 @@ email: ''
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
----
 
-I am a professor of political science at Brigham Young University. I have two research areas. The first focuses on ethnic politics and intergroup relations; in this area, I am particularly interested in intragroup dynamics and minority politics. The second focuses on misinformation; in this area, I am particularly interested in belief in and promulgation of conspiracy theories. Most of my projects are based in countries in the MENA and SE Asia regions.
+---
+I am an Assistant Professor of political science at Brigham Young University. I earned my PhD at Harvard in 2020 and my BA at BYU in 2013.
+{style="text-align: justify;"}
+
+I have two areas of research. The first focuses on ethnic politics and intergroup relations; in this area, I am particularly interested in intragroup dynamics and minority politics.
+{style="text-align: justify;"}
+
+The second focuses on misinformation; in this area, I am particularly interested in belief in and promulgation of conspiracy theories.
+{style="text-align: justify;"}
+
+Most of my projects are based in countries in the MENA and SE Asia regions.
 {style="text-align: justify;"}

@@ -13,7 +13,7 @@ doi: "https://doi.org/10.1093/irap/lcy021"
 publication_types: ["2"]
 publication: "*International Relations of the Asia-Pacific* 20 (1): 1--30"
 abstract: "We study Chinese attitudes toward the United States, and secondarily toward Japan, Russia, and Vietnam, by analyzing social media discourse on the Chinese social media site, Weibo. We focus separately on a general analysis of attitudes and on Chinese responses to specific international events involving the United States. In general, we find that Chinese netizens are much more interested in US politics than US society. Their views of the United States are characterized by deep ambivalence; they have remarkably favorable attitudes toward many aspects of US influence, whether economic, political, intellectual, or cultural. Attitudes toward the United States become negative when the focus turns to US foreign policy – actions that Chinese netizens view as antithetical to Chinese interests. On the contrary, attitudes toward Japan, Russia, and Vietnam vary a great deal from one another. The contrast between these differentiated Chinese views toward the United States and other countries, on the one hand, and the predominant anti-Americanism in the Middle East, on the other, is striking."
-summary: "Comparison of Chinese Weibo and Arabic Twitter data on attitudes toward the US."
+summary: "An examination of how the Chinese public responds to international events involving the United States, and a comparison with Arabic Twitter. Data from 2012--2013."
 tags: []
 featured: false
 
@@ -38,7 +38,7 @@ url_video:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Number of posts discussing controversial Scarborough Shoal issue and the United States."
   focal_point: ""
   preview_only: false
 

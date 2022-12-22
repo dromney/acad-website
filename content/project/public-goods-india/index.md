@@ -1,41 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Public Goods India"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Minority Politics and Public Goods Provision in India"
+summary: "How does identity as a minority affect political behavior in the context of public goods provision? An exploration of this question in the context of Hindus and Muslims in India."
 show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+tags:
+  - minority politics
+  - ethnic politics
+  - India
+  - public goods
 image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
+  caption: >
+    Images from fieldwork in slums in Delhi, illustrating the state of drainage issues in these communities.
+  focal_point: Smart
 ---
+This project is joint work with [Melani Cammett](http://www.melanicammett.org/), [Akshay Dixit](https://gov.harvard.edu/people/akshay-dixit), and [Poulomi Chakrabarti](https://sites.google.com/view/poulomichakrabarti/home?authuser=0) looking at how social status affects contributions to local public goods. In a survey experiment discussed in [this paper]({{< relref "/publication/pub-goods-delhi" >}}), we look at this research topic in the context of Hindus and Muslims in Delhi slums who need to coordinate to clear clogged drains in their alleyways. We find that mechanisms of social accountability are more effective among Muslims, and we attribute this effect to their routine exposure to discrimination and violence---terming this behavior "defensive cooperation."
+
+In a follow-up project, we aim to further explore the mechanisms through which the minority politics of Muslims in India shape willingness to contribute to public goods. We are developing a pre-analysis plan for a project to be fielded in 2023.

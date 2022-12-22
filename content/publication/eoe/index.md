@@ -33,7 +33,7 @@ url_slides:
 url_source:
 url_video:
 image:
-  caption: ""
+  caption: "ISIS flag."
   focal_point: ""
   preview_only: false
 projects: [west-and-consp]

@@ -1,41 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ethnic Voting Malaysia"
-summary: ""
-authors: []
-tags: []
-categories: []
+title: "Ethnic Voting in Malaysia"
+summary: "How do voters choose between non-ethnic parties and those that represent their ethnic and religious identities? On a research-focused study abroad, my students will study the case of Ethnic Malays in Malaysia."
+tags:
+  - ethnic politics
+  - Malaysia
+  - Southeast Asia
 show_date: false
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Results of the most recent Malaysian election."
   focal_point: ""
   preview_only: false
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: ""
 ---
+In the summer of 2023, my colleague [Liz McGuire](https://fhssfaculty.byu.edu/directory/liz-mcguire) and I will be taking a group of 20--25 students on a research-focused study abroad to Malaysia. This trip is of personal significance to me because I lived in Singapore and Malaysia during the 2007--2009 period. Though I spent much of my time there in more rural areas of East Malaysia (including Kuching and Miri in the state of Sarawak and Tawau in the state of Sabah), our study abroad will focus on the politics of ethnic Malays in peninsular Malaysia, including trips to ethnic Malay strongholds on the eastern side of the peninsula in the states of Kelantan and Terengganu.
+
+Liz and I will each work with half of the students. Liz's students will be working on a project focused on gender and politics; my project, on the other hand, will focus on ethnic voting by Malays. Malaysian politics has been in a state of flux since the [1MDB financial scandal](https://en.wikipedia.org/wiki/1Malaysia_Development_Berhad_scandal) that led to an unprecedented loss in 2018 by the former hegemonic political coalition *Barisan Nasional* (BN) and the ethnic Malay party at the head of that coalition, United Malays National Organization (UMNO). With the traditional party structure in disarray, the most recent elections (pictured above) resulted in a hung parliament, until longtime opposition leader Anwar Ibrahim was appointed Prime Minister with support from his own and a number of other political coalitions. This context provides an interesting opportunity to explore the voting patterns of ethnic Malays.
+
