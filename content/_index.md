@@ -18,7 +18,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Current Work
       filters:
         folders:
           - publication

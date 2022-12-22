@@ -5,15 +5,21 @@
 
 
 main:
+  - name: Current Work
+    url: "#featured"
+    weight: 10
   - name: Publications
     url: 'publication/'
-    weight: 10
+    weight: 20
   - name: Projects
     url: 'project/'
-    weight: 20
+    weight: 30
   - name: Courses
     url: 'courses/'
-    weight: 30
+    weight: 40
+  - name: Contact
+    url: '#contact'
+    weight: 50
   # - name: Home
   #   url: '#about'
   #   weight: 10
@@ -26,6 +32,3 @@ main:
   # - name: CV
   #   url: uploads/DavidR.pdf
   #   weight: 10
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 20
