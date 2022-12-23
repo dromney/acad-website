@@ -8,6 +8,7 @@ tags:
   - MENA
   - attitudes toward the West
   - conspiracy theories
+  - computational text analysis
 image:
   caption: From al-Ahram - front page article alleging conspiracy involving then US Ambassador Anne Peterson and a Muslim Brotherhood leader, among others
   focal_point: Smart
