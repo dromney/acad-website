@@ -6,7 +6,7 @@ tags:
   - social media
   - news media
   - MENA
-  - attitudes toward the West
+  - views of the West
   - conspiracy theories
   - computational text analysis
 image:
