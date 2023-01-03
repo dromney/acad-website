@@ -5,7 +5,7 @@ title: "The Supply of Conspiracy Theories in State-Controlled Media"
 authors:
 - Gabriel Koehler-Derrick
 - Richard A. Nielsen
-- David Romney
+- admin
 date: 2022-12-01T00:00:00Z
 # doi: ""
 
