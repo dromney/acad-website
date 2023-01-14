@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Ethnic Voting in Malaysia"
-summary: "How do voters choose between non-ethnic parties and those that represent their ethnic and religious identities? On a research-focused study abroad, my students will study the case of Ethnic Malays in Malaysia."
+summary: "How do voters ethnic and religious identities affect who they vote for? On a study abroad in the summer of 2023, my students will study the case of ethnic Malays in Malaysia."
 tags:
   - ethnic and religious politics
   - Malaysia
