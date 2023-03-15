@@ -29,7 +29,8 @@ interests:
   - Ethnic Politics and Conflict
   - Intergroup Relations
   - Conspiracy Theories and Misinformation
-  - MENA/SE Asia
+  - Middle East/North Africa
+  - Southeast Asia
 
 # Education to show in About widget
 education:
@@ -78,11 +79,8 @@ highlight_name: true
 I am an Assistant Professor of political science at Brigham Young University. I earned my PhD at Harvard in 2020 and my BA at BYU in 2013.
 {style="text-align: justify;"}
 
-I have two areas of research. The first focuses on ethnic politics and intergroup relations; in this area, I am particularly interested in intragroup dynamics and minority politics.
+I have two areas of research. The first focuses on ethnic politics and intergroup relations; in this area, I am particularly interested in intragroup dynamics and minority politics. The second focuses on belief in and promulgation of conspiracy theories.
 {style="text-align: justify;"}
 
-The second focuses on misinformation; in this area, I am particularly interested in belief in and promulgation of conspiracy theories.
-{style="text-align: justify;"}
-
-Most of my projects are based in countries in the MENA and SE Asia regions.
+Most of my projects are based in countries in the Middle East/North Africa (MENA) and Southeast Asia regions.
 {style="text-align: justify;"}
