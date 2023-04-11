@@ -15,3 +15,13 @@ I used at least the following websites to set things up.
 - Here are some that I used but need to add notes to later
   - https://github.com/jlperla/web-academic
   - https://isabella-b.com/blog/hugo-academic-customization/
+  - https://www.kyleichan.com/post/hugo-academic/
+  - https://www.emmanuelteitelbaum.com/post/create-a-website-with-blogdown-and-hugo/
+- I also frequently have to consult the wowchemy documentation: https://wowchemy.com/docs/
+
+# Random Notes
+
+Some things to note, for later reference, when I come across errors
+
+- Spent a while debugging an error "WARN... found no layout file for "HTML" for
+  layout..." - turns out I just needed to clear my cache `hugo mod clean`

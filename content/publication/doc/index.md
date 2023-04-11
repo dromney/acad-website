@@ -6,8 +6,8 @@ authors:
 - Chagai M. Weiss
 - Alexandra A. Siegel
 - admin
-date: 2022-04-01T00:00:00Z
-doi: "https://doi-org.byu.idm.oclc.org/10.1111/ajps.12718"
+date: 2023-04-01T00:00:00Z
+doi: "https://doi.org/10.1111/ajps.12718"
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;

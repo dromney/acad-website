@@ -26,7 +26,7 @@ abstract: >
 # Summary. An optional shortened abstract.
 summary: "Media messages intended to humanize Latino immigrants are unsuccessful on the target audience, and dissonance is an important reason why---from survey experiments in 2012 and 2015."
 tags: [persuasion, political communication, empathy, experiments, Latinos]
-featured: true
+featured: false
 links:
   - name: Appendix
     url: "heartsminds-appendix.pdf"
