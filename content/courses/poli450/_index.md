@@ -6,7 +6,7 @@ summary: Capstone---Ethnicity, Conflict, and Conflict Resolution
 toc: false
 draft: false
 type: book
-weight: 30
+weight: 3
 ---
 
 This capstone course covers four main topics: research methods, ethnicity, conflict, and conflict resolution. Students take this class to fulfill their final writing requirement in the political science major. It is also offered as a capstone class for students in the Middle East Studies/Arabic major.
