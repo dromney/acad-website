@@ -7,6 +7,7 @@ toc: false
 draft: false
 type: book
 weight: 1
+feedback: false
 ---
 
 In this course, we cover the Arab-Palestinian-Israeli conflict from a position of purposeful neutrality. My main goal in the course (as highlighted below) is to make students interact with views from various sides of the conflict and be able to articulate those views in a respectful manner. Importantly, I do not have a goal of persuading students toward any particular view. Because many of my students are members of the Church of Jesus Christ of Latter-day Saints, we also spend some time discussing the presence of the church in historic Palestine and modern-day Israel.

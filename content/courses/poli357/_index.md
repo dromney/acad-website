@@ -7,6 +7,7 @@ toc: false
 draft: false
 type: book
 weight: 2
+feedback: false
 ---
 
 Providing an overview of modern Middle East politics, primarily using Gelvin's book "The Modern Middle East" as well as Ellen Lust's textbook. 
