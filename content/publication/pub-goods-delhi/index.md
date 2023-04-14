@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Social Accountability and Minority Status: Contributions to Public Goods by Hindus and Muslims in Delhi Slums"
+title: "Persecuted Minorities and Defensive Cooperation: Contributions to Public Goods by Hindus and Muslims in Delhi Slums"
 authors:
 - Melani Cammett
 - Poulomi Chakrabarti
@@ -17,8 +17,11 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "R&R at *Comparative Political Studies*"
-abstract: "How does social status affect contributions to local public goods? Based on an original survey experiment and qualitative research in slums in Delhi, we examine how persecuted minorities respond to social accountability aimed at promoting cooperation around community sanitation. While mainstream theories of diversity and public goods provision would predict greater willingness to cooperate in majority Hindu and Muslim neighborhoods, we find that mechanisms of social accountability are more effective among Muslims across the board, a group that routinely faces discrimination and violence in India. We propose that this reflects defensive cooperation, or a set of coping strategies in a hostile sociopolitical environment. Muslims with stronger ingroup ties, who are more likely to have developed the social technologies required to promote cooperative behavior, largely drive the effects. Our findings point to a new mechanism that helps to enforce social norms and, hence, public goods provision---the role of *minority status*."
+abstract: >
+    How does intergroup inequality, specifically minority experiences of persecution, affect contributions to local public goods? Based on an original survey experiment and qualitative research in slums in Delhi, we examine how Hindus and Muslims respond to social norms around promoting cooperation on community sanitation. Mainstream theories of development predict greater willingness to contribute to public goods in more homogeneous areas. In contrast to the “diversity-deficit hypothesis” however, we find that social accountability mechanisms are more effective among Muslims, a group that routinely faces discrimination and violence in India. We propose that this reflects "defensive cooperation," or a set of coping strategies developed by minorities to navigate a hostile sociopolitical environment. Our findings point to a new mechanism that helps to enforce prosocial norms and, hence, public goods provision in multiethnic contexts.
+
 summary: "Exploring why Muslims respond more than Hindus to pressure to contribute to public goods in slums in Delhi, India in a survey experiment from 2018."
+
 tags: [minority politics, India, public goods, experiments, Muslims, Hindus]
 categories: []
 featured: true
