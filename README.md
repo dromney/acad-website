@@ -23,5 +23,5 @@ I used at least the following websites to set things up.
 
 Some things to note, for later reference, when I come across errors
 
-- Spent a while debugging an error "WARN... found no layout file for "HTML" for
-  layout..." - turns out I just needed to clear my cache `hugo mod clean`
+- Spent a while debugging an error "WARN... found no layout file for "HTML" for layout..." - turns out I just needed to clear my cache `hugo mod clean`.
+- Many issues can be solved by just restarting my computer; always try that first before doing whatever is suggested by the error.
