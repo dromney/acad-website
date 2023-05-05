@@ -6,7 +6,7 @@ authors:
 - Gabriel Koehler-Derrick
 - Richard A. Nielsen
 - admin
-date: 2023-04-01T00:00:00Z
+date: 2023-05-01T00:00:00Z
 # doi: ""
 
 # Publication type.
@@ -16,8 +16,8 @@ date: 2023-04-01T00:00:00Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review*"
-publication_short: "*Under Review*"
+publication: "R&R at *The Journal of Politics*"
+publication_short: "R&R at *The Journal of Politics*"
 
 abstract: "When, and why, do governments promote conspiracy theories? We build on claims that autocrats use misinformation for diversionary purposes by showing how the level of threat a regime faces affects the promotion of conspiracy theories. Governments facing threats may attempt to stave them off by oversupplying conspiracy theories. Secure governments undersupply conspiracy theories relative to independent media because promoting conspiracy theories is politically costly. Our arguments apply to both autocracies and democracies, though threatened democrats supply fewer conspiracy theories than threatened autocrats because they are more sensitive to the costs of promoting conspiracies. We test our arguments by examining conspiracy theories in Egypt’s print media between 2005 and 2018. When the government faced threats, the state-controlled newspaper published more conspiracy theories than its independent counterpart. This relationship is moderated by changes in regime: the government promoted fewer conspiracy theories during a brief period of democracy despite facing significant threats."
 summary: "Comparing regime-associated with independent newspapers in Egypt, we explore the factors that lead the Egyptian state to promulgate conspiracy theories in state-sponsored media from 2005 to 2018."
