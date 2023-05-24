@@ -49,11 +49,7 @@ sections:
         country_code: US
       directions: Take elevator to office 734 in KMBL tower
       office_hours:
-        - "(Office hours for Winter 2023)"
-        - 'Monday 11:00am--12:00pm'
-        - 'Tuesday 3:00pm--4:00pm'
-        - 'Wednesday 3:30pm--4:30pm'
-        - 'Thursday 10:00am--11:00am'
+        - "(Office hours spring/summer by appointment)"
     design:
       columns: '2'
 
