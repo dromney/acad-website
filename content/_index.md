@@ -49,7 +49,8 @@ sections:
         country_code: US
       directions: Take elevator to office 734 in KMBL tower
       office_hours:
-        - "(Office hours spring/summer by appointment)"
+        - "Tuesday 3–4pm"
+        - "Thursday 9–10am"
     design:
       columns: '2'
 
