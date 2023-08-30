@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© 2022 David Romney.'
+    notice: '© 2023 David Romney.'
     license:
       enable: true
       allow_derivatives: false
