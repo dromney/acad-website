@@ -39,9 +39,9 @@ sections:
       text: |-
       email: david.romney@byu.edu
       phone: +1 801 422 0364
-      # appointment_url: 'https://calendly.com' -->
+      appointment_url: 'https://calendly.com/romnoose/office-hours'
       address:
-        street: 734 KMBL
+        street: 774 KMBL
         city: Provo
         region: UT
         postcode: "84602"
