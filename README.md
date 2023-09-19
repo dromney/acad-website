@@ -26,3 +26,10 @@ Some things to note, for later reference, when I come across errors
 - Spent a while debugging an error `WARN... found no layout file for "HTML" for layout...` - turns out I just needed to clear my cache `hugo mod clean`.
 - Many issues can be solved by just restarting my computer; always try that first before doing whatever is suggested by the error.
 - When moving to a new computer, need to follow the instructions at this link to install dependencies, such as `golang`: https://wowchemy.com/docs/getting-started/install-hugo-extended/
+- for using `git` via the command line, first use `brew` to install `git` and
+  the credentials manager, then for each change commit the change with a label
+  and finally push to origin
+  - `brew install git`
+  - `brew install --cask git-credential-manager`
+  - `git commit -a -m "label here"`
+  - `git push origin`
