@@ -39,7 +39,7 @@ sections:
       text: |-
       email: david.romney@byu.edu
       phone: +1 801 422 0364
-      appointment_url: 'https://calendly.com/romnoose/office-hours'
+      appointment_url: 'https://calendly.com/romnoose/f23oh'
       address:
         street: 774 KMBL
         city: Provo
@@ -47,9 +47,9 @@ sections:
         postcode: "84602"
         country: United States
         country_code: US
-      directions: Take elevator to office 734 in KMBL tower
+      directions: Take elevator to office 774 in KMBL tower
       office_hours:
-        - "Fall 2023 Hours:"
+        - "Fall 2023 Hours (book through link below):"
         - "Tuesday 3–4pm"
         - "Thursday 9–10am"
     design:
