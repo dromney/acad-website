@@ -39,7 +39,7 @@ sections:
       text: |-
       email: david.romney@byu.edu
       phone: +1 801 422 0364
-      appointment_url: 'https://calendly.com/romnoose/f23oh'
+      appointment_url: 'https://cal.com/romnoose/office-hours'
       address:
         street: 774 KMBL
         city: Provo
