@@ -51,7 +51,7 @@ sections:
       office_hours:
         - "Fall 2023 Hours (book through link below):"
         - "Tuesday 3–4pm"
-        - "Thursday 9–10am"
+        - "Wednesday 9–10am"
     design:
       columns: '2'
 
