@@ -2,12 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Ethnic Politics in Malaysia"
-summary: "Studying majority (Malay) and minority (Chinese and Indian) politics in Malaysia, using data from an n = 3,000 survey administered in 2023."
+summary: "Studying majority and minority politics in Malaysia, using data from an n = 3,000 survey administered in 2023."
 tags:
   - ethnic and religious politics
+  - minority politics
   - Malaysia
   - Southeast Asia
   - experiments
+  - conjoint design
   - voting
 show_date: false
 image:
@@ -15,7 +17,7 @@ image:
   focal_point: ""
   preview_only: false
 ---
-Building on other work looking at minority politics in the Middle East (e.g. [this paper]({{< relref "/publication/doc" >}})), I explore majority and minority political behavior in the context of Malaysia elections. Malaysia is a unique context for studying majority and minority politics: Since independence, the majority ethnic group (Malays) have enjoyed political dominance, but due to Malaysia's British colonial history, the minority groups (and especially the Chinese) have traditionally enjoyed economic dominance. Additionally, the majority Malays are defined not only by their ethnicity but also their religion, creating multiple levels on which their political dominance functions. In this project, I explore majority and minority politics in two ways. First, I use a survey experiment to manipulate exposure to challenges to the political status quo (Malay dominance). Four manipulations vary whether this challenge comes from a majority or a minority member and whether it highlights ethnic or religious dominance. I then explore the effect of these manipulations on voting behavior. Second, I use a conjoint experiment to 
+Building on other work looking at minority politics in the Middle East ([here]({{< relref "/publication/doc" >}})) and India ([here]({{< relref "/publication/pub-goods-delhi"}}) and [here]({{< relref "/publication/acct-div-delhi"}})), I explore majority and minority political behavior in the context of Malaysia elections. Malaysia is a unique context for studying majority and minority politics: Since independence, the majority ethnic group (Malays) have enjoyed political dominance, but due to Malaysia's British colonial history, the minority groups (and especially the Chinese) have traditionally enjoyed economic dominance. Additionally, the majority Malays are defined not only by their ethnicity but also their religion, creating multiple levels on which their political dominance functions. In this project, I explore majority and minority politics in two ways. First, I use a survey experiment to manipulate exposure to challenges to the political status quo (Malay dominance). Four manipulations vary whether this challenge comes from a majority or a minority member and whether it highlights ethnic or religious dominance. I then explore the effect of these manipulations on voting behavior. Second, I use a conjoint experiment to 
 
 During the summer of 2023, my colleague [Liz McGuire](https://fhssfaculty.byu.edu/directory/liz-mcguire) and I took a group of 21 students on a study abroad to Malaysia. This trip is of personal significance to me because I lived in Singapore and Malaysia during the 2007--2009 period. Though I spent much of my time there in more rural areas of East Malaysia (including Kuching and Miri in the state of Sarawak and Tawau in the state of Sabah), our study abroad will focus on the politics of ethnic Malays in peninsular Malaysia, including trips to the northeastern side of the peninsula in the states of Kelantan and Terengganu.
 
