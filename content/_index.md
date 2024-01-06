@@ -49,9 +49,9 @@ sections:
         country_code: US
       directions: Take elevator to office 774 in KMBL tower
       office_hours:
-        - "Fall 2023 Hours (book through link below):"
-        - "Tuesday 3–4pm"
-        - "Wednesday 9–10am"
+        - "Winter 2024 Hours (book through link below):"
+        - "Wednesday 11am-12pm"
+        - "Thursday 9:30-10:30am"
     design:
       columns: '2'
 

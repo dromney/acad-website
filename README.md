@@ -33,3 +33,12 @@ Some things to note, for later reference, when I come across errors
   - `git push origin`
   - `git config --global user.name "My name"`
   - `git config --global user.email you@example.com`
+- Some notes to remind myself where the different files are for different parts of the website (it can be difficult to keep track of these):
+  - All publications, project pages, and courses are subdirectories in `content`
+  - `content/_index.md` is where you'll find office location, hours, contact info, etc - everything at the bottom of my main page
+  - `content/authors/admin/_index.md` is where you can change name, position title, university, various links and icons for social media etc, and biography - additionally, the image in that same folder `avatar.jpg` is where you can set the main picture for your profile
+  - `static/uploads` is where you can put files that you want to link elsewhere on your website - for me, that is my CV and, occasionally, files related to a particular publication that I need provided in an alternative location
+  - `config/_default/config.yaml` define here the base URL for the website, for the most part won't edit this
+  - `config/_default/menus.yaml` is where you define what is on your main menu - either separate pages (e.g. `courses/`) or portions of your homepage (e.g. `#featured`)
+  - `config/_default/params.yaml` is the location for defining theme, font, google analytics ID, the footer, and some other things that I generally don't need to edit
+  - 
