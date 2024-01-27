@@ -47,7 +47,7 @@ sections:
         postcode: "84602"
         country: United States
         country_code: US
-      directions: Take elevator to office 774 in KMBL tower
+      directions: Take elevator to floor 7 in KMBL tower
       office_hours:
         - "Winter 2024 Hours (book through link below):"
         - "Wednesday 11am-12pm"
