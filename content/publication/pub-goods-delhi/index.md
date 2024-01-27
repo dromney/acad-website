@@ -6,7 +6,7 @@ authors:
 - Melani Cammett
 - Poulomi Chakrabarti
 - admin
-date: 2023-04-01T00:00:00Z
+date: 2024-01-01T00:00:00Z
 # doi: ""
 
 # Publication type.
@@ -16,7 +16,7 @@ date: 2023-04-01T00:00:00Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Forthcoming at *Comparative Political Studies*"
+publication: "*Comparative Political Studies* 57 (2): 321--355"
 abstract: >
     How does intergroup inequality, specifically minority experiences of persecution, affect contributions to local public goods? Based on an original survey experiment and qualitative research in slums in Delhi, we examine how Hindus and Muslims respond to social norms around promoting cooperation on community sanitation. Mainstream theories of development predict greater willingness to contribute to public goods in more homogeneous areas. In contrast to the “diversity-deficit hypothesis” however, we find that social accountability mechanisms are more effective among Muslims, a group that routinely faces discrimination and violence in India. We propose that this reflects "defensive cooperation," or a set of coping strategies developed by minorities to navigate a hostile sociopolitical environment. Our findings point to a new mechanism that helps to enforce prosocial norms and, hence, public goods provision in multiethnic contexts.
 

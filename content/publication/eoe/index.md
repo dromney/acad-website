@@ -15,7 +15,7 @@ doi: "https://doi.org/10.1093/isq/sqab075"
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["2"]
-publication: "*International Studies Quarterly* 65, 1176--1184"
+publication: "*International Studies Quarterly* 65 (4): 1176--1184"
 abstract: "A counter-intuitive finding emerges from an analysis of Arabic Twitter posts from 2014 to 2015: Twitter participants who are negative toward the Islamic State of Iraq and the Levant (ISIS) are also more likely to hold negative views of the United States. This surprising correlation is due to the interpretations of two sets of users. One set of users views the United States and ISIS negatively as independent interventionist powers in the region. The other set of users negatively links the United States with ISIS, often asserting a secretive conspiracy between the two. The intense negativity toward the United States in the Middle East seems conducive to views that, in one way or another, cause citizens to link the United States and ISIS in a conspiratorial manner."
 summary: "Why do some link the US and ISIS in Arabic-language Twitter? Answers using Arabic Tweets from the height of ISIS's power (2014--15)."
 tags: [social media, ISIS, views of the West, MENA, conspiracy theories, computational text analysis]

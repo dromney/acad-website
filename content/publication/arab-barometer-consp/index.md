@@ -7,7 +7,7 @@ authors:
 - admin
 - Dustin Tingley
 - Amaney Jamal
-date: 2023-04-01T00:00:00Z
+date: 2024-01-01T00:00:00Z
 # doi: ""
 
 # Publication type.
@@ -17,7 +17,7 @@ date: 2023-04-01T00:00:00Z
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Under Review*"
+publication: "*Preparing for Resubmission*"
 publication_short: ""
 
 abstract: "What explains variation in citizens’ belief in US-related conspiracy theories in the Arab Middle East? Some scholars have argued that anti-US sentiment or individual-level characteristics identified in other contexts can explain the Arab public’s belief in these conspiracy theories; others have argued that citizens of autocracies are more likely to trust such theories. We explore these claims using a conjoint experiment with representative samples from 10 Arab countries. We find that extant explanations do not do a good job of describing the variation we observe---e.g., correlation with anti-US sentiment depends on the conspiracy theory, and belief in these
