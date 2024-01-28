@@ -16,7 +16,7 @@ publication_types: ["2"]
 publication: "*American Journal of Political Science* 67 (4): 1080--1095"
 abstract: "Do exclusionary policies mobilize minority political participation? We theorize that the threat of exclusionary policies creates and resurfaces grievances that facilitate mobilization. To test our theory, we leverage Donald Trump's announcement of a peace plan for the Israeli–Palestinian conflict, which posed a threat to the citizenship status of Palestinian citizens of Israel residing in the Triangle area adjacent to the West Bank. First, using more than 170,000 posts from public Facebook groups and pages, we show that Trump's announcement was indeed a more salient political event for Triangle residents. Then, employing locality-level election data as well as records detailing the origin of citizens’ joining a Jewish-Arab social movement, we use a difference-in-difference design to demonstrate that the threat to citizenship imposed by Trump's plan increased mobilization in the Triangle area. Our evidence from three distinct data sources suggests that threats of exclusion can mobilize minority political behavior."
 summary: "We find that Palestinian Citizens of Israel mobilize politically in response to a potential threat to their citizenship---their proposed transfer under the Trump peace plan in 2020."
-tags: [MENA, Israel, Palestinian Citizens of Israel, minority politics, social media, computational text analysis, diff-in-diff, voting]
+tags: [MENA, Israel-Palestine, Palestinian Citizens of Israel, ethnic and religious politics, minority politics, social media, computational text analysis, diff-in-diff, voting behavior]
 categories: []
 featured: true
 links:

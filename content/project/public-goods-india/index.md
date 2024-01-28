@@ -7,6 +7,7 @@ show_date: false
 tags:
   - minority politics
   - ethnic and religious politics
+  - Islam
   - India
   - public goods
   - experiments

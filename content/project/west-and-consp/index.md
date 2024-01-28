@@ -9,6 +9,7 @@ tags:
   - views of the West
   - conspiracy theories
   - computational text analysis
+  - democracy and autocracy
 image:
   caption: From al-Ahram - front page article alleging conspiracy involving then US Ambassador Anne Peterson and a Muslim Brotherhood leader, among others
   focal_point: Smart

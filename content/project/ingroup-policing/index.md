@@ -6,10 +6,11 @@ summary: >
   How do people respond when someone from their social group condemns ingroup misbehavior? What factors can make people more receptive to this type of "ingroup policing?" My dissertation and follow-up research look at these questions focused in the context Israeli Jews.
 show_date: false
 tags:
+  - ethnic and religious politics
   - ingroup policing
-  - Israel
-  - Palestine
+  - Israel-Palestine
   - Israeli Jews
+  - majority politics
   - conjoint design
   - experiments
 image:

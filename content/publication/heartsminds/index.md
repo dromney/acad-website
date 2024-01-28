@@ -25,7 +25,7 @@ abstract: >
   Politicians and social activists frequently employ media designed to change hearts and minds by humanizing out-groups. These messages, it is assumed, lead to empathic concern, which motivates individuals to reconsider punitive policy attitudes. How effective is this approach? Using two experiments, we find that while media messages humanized Latinos for all respondents, the treatment messages produced the largest empathy response among those with the most positive prior attitudes. A key intended target of the media messages—those with the highest pretreatment antipathy toward the out-group—reported a dramatically lower increase in empathy. In a second study, we show that unpleasant affect from dissonance is one important mechanism driving these differential results. In both studies, treatments designed to provoke increased empathic concern produced little change in policy attitudes. Thus, changing hearts using empathy-inducing media is a complex task, making the ability to change minds elusive.
 # Summary. An optional shortened abstract.
 summary: "Media messages intended to humanize Latino immigrants are unsuccessful on the target audience, and dissonance is an important reason why---from survey experiments in 2012 and 2015."
-tags: [persuasion, political communication, empathy, experiments, Latinos]
+tags: [political persuasion, empathy, experiments, majority politics, ethnic and religious politics, immigration, Latino politics]
 featured: false
 links:
   - name: Appendix

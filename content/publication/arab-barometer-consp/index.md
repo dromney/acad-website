@@ -24,7 +24,7 @@ abstract: "What explains variation in citizens’ belief in US-related conspirac
 conspiracy theories is not more common in more authoritarian regimes. Instead, we find Sunni-Shia sectarianism and exposure to foreign intervention in violent conflict to be the dominant factors explaining trust in US-related conspiracy theories in the Arab Middle East."
 summary: "A conjoint experiment in 10 MENA countries examines the micro- and macro-level factors that determine support for US-related conspiracy theories in 2018--2019."
 
-tags: [conspiracy theories, MENA, ISIS, experiments, conjoint design]
+tags: [conspiracy theories, MENA, ISIS, experiments, conjoint design, democracy and autocracy]
 categories: []
 featured: true
 links:
