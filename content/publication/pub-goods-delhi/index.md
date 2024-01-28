@@ -22,7 +22,7 @@ abstract: >
 
 summary: "Exploring why Muslims respond more than Hindus to pressure to contribute to public goods in slums in Delhi, India in a survey experiment from 2018."
 
-tags: [minority politics, India, public goods, experiments, Muslims, Hindus]
+tags: [ethnic and religious politics, minority politics, India, public goods, experiments, Islam]
 categories: []
 featured: true
 links:

@@ -27,7 +27,7 @@ abstract: "Efforts to uncover the microfoundations of the negative association b
 # # Summary. An optional shortened abstract.
 # summary: ""
 
-tags: [ethnic diversity, India, public goods, experiments, Muslims, Hindus]
+tags: [ethnic and religious politics, India, public goods, experiments, Islam]
 categories: []
 featured: false
 links:
