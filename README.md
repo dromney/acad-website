@@ -40,5 +40,4 @@ Some things to note, for later reference, when I come across errors
   - `static/uploads` is where you can put files that you want to link elsewhere on your website - for me, that is my CV and, occasionally, files related to a particular publication that I need provided in an alternative location
   - `config/_default/config.yaml` define here the base URL for the website, for the most part won't edit this
   - `config/_default/menus.yaml` is where you define what is on your main menu - either separate pages (e.g. `courses/`) or portions of your homepage (e.g. `#featured`)
-  - `config/_default/params.yaml` is the location for defining theme, font, google analytics ID, the footer, and some other things that I generally don't need to edit
-  - 
+  - `config/_default/params.yaml` is the location for defining theme, font, google analytics ID, the footer, and some other things that I generally don't need to edit 
