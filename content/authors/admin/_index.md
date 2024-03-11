@@ -79,8 +79,5 @@ highlight_name: true
 I am an Assistant Professor of political science at Brigham Young University. I earned my PhD at Harvard in 2020 and my BA at BYU in 2013.
 {style="text-align: justify;"}
 
-I have two areas of research. The first focuses on ethnic and religious politics; in this area, I am particularly interested in how citizens' political behavior is affected by their status as members of minority or majority groups. My second area of research focuses on belief in and state promulgation of political conspiracy theories, particularly ones in which the US or the West feature as a perpetrators.
-{style="text-align: justify;"}
-
-Most of my projects are based in countries in the Middle East/North Africa (MENA) and Southeast Asia regions.
+I have two areas of research. The first focuses on ethnic and religious politics, where I study how citizens respond to ingroup policing and how their behavior is affected by minority/majority dynamics. My second area of research focuses on belief in and state promulgation of political conspiracy theories. My work is primarily based in the Middle East/North Africa (MENA) and Southeast Asia regions and is published in the *American Journal of Political Science*, *The Journal of Politics*, *Perspectives on Politics*, *Comparative Political Studies*, and *International Studies Quarterly*, among others.
 {style="text-align: justify;"}
