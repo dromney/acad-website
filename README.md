@@ -33,6 +33,13 @@ Some things to note, for later reference, when I come across errors
   - `git push origin`
   - `git config --global user.name "My name"`
   - `git config --global user.email you@example.com`
+- I ran into an error starting in March 2024 because the academic theme doesn't work with the newest version of `hugo`, these are the steps that I took to fix it
+  - First I completed some steps that may have not been necessary, but I want to document
+    - Followed the instructions from https://docs.hugoblox.com/reference/update/ to upgrade the modules I am using - following the breaking changes outlined for version 5.9 for Hugo Blox (the new name for these sets of themes), I changed my module from `module/wowchemy` to `module/wowchemy-bootstrap` in `go.mod`
+    - I also added any new required modules listed in `go.mod` to `config/_default/config.yaml`
+    - In `netlify.toml`, I initially changed the version of `hugo` to `0.123.8` which is the newest version; however, I discovered searching online that only up to `0.122.0` is supported
+  - I then downgraded to a previous version of `hugo`, which seemed to be the step that was really necessary
+    - I then followed instructions to find the formula (`hugo.rb`) in the `homebrew-core` GitHub page, look through history to find version `0.122.0`, download the raw file, and then save locally; after uninstalling (`brew uninstall hugo`), I then changed directories to where the previous version of `hugo` was saved and installed it (`brew install hugo.rb`); finally, I pinned this version (`brew pin hugo`) so that it won't automatically update
 - Some notes to remind myself where the different files are for different parts of the website (it can be difficult to keep track of these):
   - All publications, project pages, and courses are subdirectories in `content`
   - `content/_index.md` is where you'll find office location, hours, contact info, etc - everything at the bottom of my main page
