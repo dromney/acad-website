@@ -82,5 +82,8 @@ I am an Assistant Professor of political science at Brigham Young University. I 
 I have two areas of research. The first focuses on ethnic and religious politics, where I study how citizens respond to ingroup policing and how their behavior is affected by minority/majority dynamics. My second area of research focuses on belief in and state promulgation of political conspiracy theories. My work is primarily based in the Middle East/North Africa (MENA) and Southeast Asia regions and is published in the *American Journal of Political Science*, *The Journal of Politics*, *Perspectives on Politics*, *Comparative Political Studies*, and *International Studies Quarterly*, among others.
 {style="text-align: justify;"}
 
+I primarily teach undergraduate courses in comparative politics---an upper-level writing and seminar course focused on ethnic conflict ([link]({{< relref "/courses/poli350" >}})), an area studies class on Middle East politics ([link]({{< relref "/courses/poli357" >}})), and a course on Israel-Palestine ([link]({{< relref "/courses/poli474" >}})). I also teach our department's undergraduate statistics course ([link]({{< relref "/courses/poli300" >}})).
+{style="text-align: justify;"}
+
 Scroll down or click on "Current Work" to see my recent publications; please feel free to reach out or visit me during office hours using the information at the bottom of this page.
 {style="text-align: justify;"}
