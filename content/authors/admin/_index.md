@@ -76,7 +76,7 @@ email: ''
 highlight_name: true
 
 ---
-I am an Assistant Professor of political science at Brigham Young University. I earned my PhD at Harvard in 2020 and my BA at BYU in 2013.
+I am an Assistant Professor of political science at Brigham Young University. I am also associated with our programs in ([Middle East Studies/Arabic](https://kennedy.byu.edu/middle-east-studies-arabic)), ([International Relations](https://kennedy.byu.edu/international-relations)), and ([International Development](https://kennedy.byu.edu/international-development)), as well as a faculty advisor in the ([Global Politics Lab](https://gpl.byu.edu/)). I earned my PhD at Harvard in 2020 and my BA at BYU in 2013.
 {style="text-align: justify;"}
 
 I have two areas of research. The first focuses on ethnic and religious politics, where I study how citizens respond to ingroup policing and how their behavior is affected by minority/majority dynamics. My second area of research focuses on belief in and state promulgation of political conspiracy theories. My work is primarily based in the Middle East/North Africa (MENA) and Southeast Asia regions and is published in the *American Journal of Political Science*, *The Journal of Politics*, *Perspectives on Politics*, *Comparative Political Studies*, and *International Studies Quarterly*, among others.
