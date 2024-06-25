@@ -6,42 +6,23 @@ authors:
 - Melani Cammett
 - Poulomi Chakrabarti
 - admin
-date: 2024-01-01T00:00:00Z
-doi: ""
-
-# # Schedule page publish date (NOT publication's date).
-# publishDate: 2023-04-11T12:50:29-06:00
+date: 2024-06-01T00:00:00Z
+# doi: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
 publication: "*Preparing for Resubmission*"
-# publication_short: ""
-
 abstract: "Efforts to uncover the microfoundations of the negative association between diversity and public goods provision point to the role of social norms in facilitating collective action. Based on a survey experiment in slums in Delhi, we test three forms of social accountability: i) *horizontal accountability* through peers, ii) pressure from local elites or *vertical accountability*, and iii) signaling ingroup underperformance or the *black sheep effect*. Contrary to expectations, we find that none of these forms of social accountability affect willingness to cooperate on aggregate. Levels of ethnic diversity also do not condition the outcomes. However, exploratory analyses show that the effects vary by religion. While Hindus do not respond to the treatments, Muslims express greater intent to participate. Our findings call for research on how *minority status* might shape contributions to local welfare."
-
-# # Summary. An optional shortened abstract.
-# summary: ""
-
+summary: "Using a survey experiment in Delhi, we explore the fact that ethnic diversity does not condition behavior as expected."
 tags: [ethnic and religious politics, India, public goods, experiments, Islam]
 categories: []
 featured: false
 links:
   - name: Appendix
     url: "acct-div-delhi-appendix.pdf"
-
-# Custom links (optional).
-#   Uncomment and edit lines below to show custom links.
-# links:
-# - name: Follow
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: twitter
-
 url_pdf:
 url_code:
 url_dataset:

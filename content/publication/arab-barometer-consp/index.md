@@ -7,7 +7,7 @@ authors:
 - admin
 - Dustin Tingley
 - Amaney Jamal
-date: 2024-01-01T00:00:00Z
+date: 2024-06-01T00:00:00Z
 # doi: ""
 
 # Publication type.
@@ -15,13 +15,8 @@ date: 2024-01-01T00:00:00Z
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
-
-# Publication name and optional abbreviated publication name.
 publication: "*Preparing for Resubmission*"
-publication_short: ""
-
-abstract: "What explains variation in citizens’ belief in US-related conspiracy theories in the Arab Middle East? Some scholars have argued that anti-US sentiment or individual-level characteristics identified in other contexts can explain the Arab public’s belief in these conspiracy theories; others have argued that citizens of autocracies are more likely to trust such theories. We explore these claims using a conjoint experiment with representative samples from 10 Arab countries. We find that extant explanations do not do a good job of describing the variation we observe---e.g., correlation with anti-US sentiment depends on the conspiracy theory, and belief in these
-conspiracy theories is not more common in more authoritarian regimes. Instead, we find Sunni-Shia sectarianism and exposure to foreign intervention in violent conflict to be the dominant factors explaining trust in US-related conspiracy theories in the Arab Middle East."
+abstract: "What explains variation in citizens’ belief in US-related conspiracy theories in the Arab Middle East? Some scholars have argued that anti-US sentiment or individual-level characteristics identified in other contexts can explain the Arab public’s belief in these conspiracy theories; others have argued that citizens of autocracies are more likely to trust such theories. We explore these claims using a conjoint experiment with representative samples from 10 Arab countries. We find that extant explanations do not do a good job of describing the variation we observe---e.g., correlation with anti-US sentiment depends on the conspiracy theory, and belief in these conspiracy theories is not more common in more authoritarian regimes. Instead, we find Sunni-Shia sectarianism and exposure to foreign intervention in violent conflict to be the dominant factors explaining trust in US-related conspiracy theories in the Arab Middle East."
 summary: "A conjoint experiment in 10 MENA countries examines the micro- and macro-level factors that determine support for US-related conspiracy theories in 2018--2019."
 
 tags: [conspiracy theories, MENA, ISIS, experiments, conjoint design, democracy and autocracy]
