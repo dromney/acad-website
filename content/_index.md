@@ -49,9 +49,10 @@ sections:
         country_code: US
       directions: Take elevator to floor 7 in KMBL tower
       office_hours:
-        - "No regularly scheduled office hours during the summer; email me to set up a meeting."
-        # - "Wednesday 11am-12pm"
-        # - "Thursday 9:30-10:30am"
+        - "Office hours Fall 2024:"
+        - "Tuesday 10-11am"
+        - "Thursday 12-1pm"
+        - "Friday 2-3pm"
     design:
       columns: '2'
 
