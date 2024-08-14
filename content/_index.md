@@ -50,8 +50,8 @@ sections:
       directions: Take elevator to floor 7 in KMBL tower
       office_hours:
         - "Office hours Fall 2024:"
-        - "Tuesday 10-11am"
-        - "Thursday 12-1pm"
+        - "Tuesday 12-1pm"
+        - "Thursday 10-11am"
         - "Friday 2-3pm"
     design:
       columns: '2'
