@@ -12,7 +12,7 @@ comments: false
 
 ---
 
-Around the end of 2023, I decided to devote more of my time to keeping my body (and mind) in shape. In order to maintain a good habit like this, I need accountability and I need a goal. I decided to get into running. To provide myself with a goal, I signed up for the Utah Valley Marathon (and have since run in half-marathons in the area). To provide myself with accountability, I started recording my runs, and posting to this website is another form of accountability.
+Around the end of 2023, I decided to devote more of my time to keeping my body (and mind) in shape. In order to maintain a good habit like this, I need accountability and I need a goal. I decided to get into running. To provide myself with a goal, I signed up for the Utah Valley Marathon (and have since run multiple half-marathons in the area). To provide myself with accountability, I started recording my runs, and posting to this website is another form of accountability.
 
 The data linked here are a spreadsheet of my runs since I began this process. There are a number of metrics I keep track of, and I use a `gam` model in the programming language `R` to try to predict the pace I should run for regular exercise and for a race.
 
@@ -56,7 +56,7 @@ While this image shows the predicted paces for a race:
 
 <iframe src="https://drive.google.com/file/d/11PVDSpnKrFgkCcCB0xWu2_xMRT8mRgC_/preview" width="640" height="480" allow="autoplay"></iframe>
 
-I hope to one day be able to run the Boston Marathon; realistically, that goal is still a couple years off (and would be represented by my marathon race pace getting close to the dashed horizontal line on the graph).
+I hope to one day be able to run the Boston Marathon; realistically, that goal is still a couple years off (and would be represented by my marathon race pace getting close to the dashed horizontal line on the graph). For the Utah Valley Marathon in 2025, I hope to be able to run a time under 4 hours, and maybe close to 3:50.
 
 
 
