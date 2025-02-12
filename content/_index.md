@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2024-03-15
+date: 2025-02-12
 type: landing
 
 sections:
@@ -13,7 +13,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
     design:
-      columns: '1'
+      columns: '2'
       view: showcase
   - block: collection
     id: featured
@@ -24,13 +24,14 @@ sections:
           - publication
         featured_only: true
     design:
-      columns: '2'
-      view: card
+      columns: '1'
+      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
-      columns: '2'
+      columns: '1'
+      view: compact
   - block: contact
     id: contact
     content:
@@ -49,7 +50,7 @@ sections:
         country_code: US
       directions: Take elevator to floor 7 in KMBL tower
       office_hours:
-        - "Office hours Fall 2024:"
+        - "Office hours Winter 2025:"
         - "Tuesday 12-1pm"
         - "Thursday 10-11am"
         - "Friday 2-3pm"
