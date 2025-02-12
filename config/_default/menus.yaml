@@ -17,6 +17,13 @@ main:
   - name: Courses
     url: 'courses/'
     weight: 40
+  - name: Personal
+    identifier: personal
+    weight: 50
+  - name: Running
+    parent: personal
+    url: 'personal/running/'
+    weight: 10
   # - name: Contact
   #   url: '#contact'
   #   weight: 50
