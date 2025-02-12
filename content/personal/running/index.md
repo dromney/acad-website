@@ -50,11 +50,11 @@ my_mod <- gam(pace ~ s(date, k = 6) + s(dist, k = 7) + afternoon +
 
 Which I then use to produce the following figures, which include predicted paces for different distances (all in kilometers because I'm weird like that). This image shows the predicted paces for a regular run:
 
-![Predicted Paces for a Regular Run](https://drive.google.com/uc?export=view&id=1-xTBOLDbhk4chsJ3lpzJfMXJx4XSbqZk)
+<iframe src="https://drive.google.com/file/d/1-xTBOLDbhk4chsJ3lpzJfMXJx4XSbqZk/preview" width="640" height="480" allow="autoplay"></iframe>
 
 While this image shows the predicted paces for a race:
 
-![Predicted Paces for a Race](https://drive.google.com/uc?export=view&id=11PVDSpnKrFgkCcCB0xWu2_xMRT8mRgC_)
+<iframe src="https://drive.google.com/file/d/11PVDSpnKrFgkCcCB0xWu2_xMRT8mRgC_/preview" width="640" height="480" allow="autoplay"></iframe>
 
 I hope to one day be able to run the Boston Marathon; realistically, that goal is still a couple years off (and would be represented by my marathon race pace getting close to the dashed horizontal line on the graph).
 
