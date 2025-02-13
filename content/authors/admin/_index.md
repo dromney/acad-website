@@ -67,7 +67,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/DavidR.pdf
+    link: https://www.dropbox.com/scl/fi/wdoipnw1yi6tzpvduvq34/DavidR.pdf?rlkey=ohcq0s1rgvncwxbcf5vw4xc35&st=hw6lltvy&dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
