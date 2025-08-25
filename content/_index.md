@@ -50,7 +50,7 @@ sections:
         country_code: US
       directions: Take elevator to floor 7 in KMBL tower
       office_hours:
-        - "Office hours Winter 2025:"
+        - "Office hours Fall 2025:"
         - "Tuesday 12-1pm"
         - "Thursday 10-11am"
         - "Friday 2-3pm"
